@@ -1,6 +1,10 @@
 Base Meta: Page Title And Meta Tags
 ===================================
 
+**This module is discontinued and should be replaced by their refactored and extended successor, 
+the module "SEO Meta Tags" available at https://backdropcms.org/project/seo_meta 
+or https://github.com/backdrop-contrib/seo_meta**
+
 The Base Meta module allows you define page title tag and meta tags 
 for search engines:
 
@@ -57,9 +61,3 @@ Credits and motivation
 - Inspired by projects "Metatag" and "Page Title" in the quest for simplicity.
 
 - Some people cannot adopt CMS without such (even very basic) functionality.
-
-Please note
----------------------
-This module is discontinued and should be replaced by their refactored and extended successor, 
-the module "SEO Meta Tags" available at https://backdropcms.org/project/seo_meta 
-or https://github.com/backdrop-contrib/seo_meta
